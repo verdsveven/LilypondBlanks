@@ -1,6 +1,8 @@
 # LilypondBlanks
 Blank staff paper for various instruments and combinations engraved in Lilypond (both source and pdf)
 
+* NB!: Read instructions/notes on printing and the description for the blank that you are planning to download!
+
 ## Motivation:
 Good-looking printable blank staff/music paper is hard to come by. In this repository you will find blanks for a bunch of instruments and their combinations ***FOR FREE*** with no watermarks or other bs. Engraved beautifully with lilypond and available in both PDF and editable lilypond source files.
 
@@ -18,8 +20,11 @@ Good-looking printable blank staff/music paper is hard to come by. In this repos
 ### Piano
 * 6 bars per page blank staff paper prepared for piano (treble and bass clef included). No time signature however.
 
+### String quartet
+* 4 bars per page blank staff paper prepared for string quartet (all clefs included). No time signature however.
+* First page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
+
 ### Others potentially coming in the future:
-* String quartet
 * Piano quartet/quintet
 * Symphony (maybe)
 * others...
