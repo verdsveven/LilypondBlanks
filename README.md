@@ -16,7 +16,7 @@ Good-looking printable blank staff/music paper is hard to come by. In this repos
 	* 12 bars per page
 
 ### Piano
-* 6 bars per page of 12 bar total blank staff paper prepared for piano (treble and bass clef included). No time signature however.
+* 6 bars per page blank staff paper prepared for piano (treble and bass clef included). No time signature however.
 
 ### Others potentially coming in the future:
 * String quartet
