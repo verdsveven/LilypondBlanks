@@ -24,7 +24,11 @@ Good-looking printable blank staff/music paper is hard to come by. In this repos
 * 4 bars per page blank staff paper prepared for string quartet (all clefs included). No time signature however.
 * First page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
 
+### String quartet
+* 2 bars per page blank staff paper prepared for piano quartet (all clefs included). No time signature however.
+* First page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
+
 ### Others potentially coming in the future:
-* Piano quartet/quintet
+* Piano quintet
 * Symphony (maybe)
 * others...
