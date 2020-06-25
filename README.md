@@ -1,6 +1,7 @@
 # LilypondBlanks
 Blank staff paper for various instruments and combinations engraved in Lilypond (both source and pdf)
 
+* Example:
 <img src="https://raw.githubusercontent.com/verdsveven/LilypondBlanks/d21b6b494b5a76aa5fa4f69b152fb80900fbb0ef/Example.png" width=330>
 
 * NB!: Read instructions/notes on printing and the description for the blank that you are planning to download!
