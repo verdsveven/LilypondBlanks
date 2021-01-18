@@ -1,4 +1,4 @@
-#(set-global-staff-size 26)
+#(set-global-staff-size 28)
 #(set-default-paper-size "a4")
 % above lines define the default size of the staff and the size of the paper. Both sizes can be changed to one's liking. "a4" can be changed to "letter" for example
 
@@ -15,7 +15,7 @@
 % header defines all sorts of headers, tagline defines the footer
 
 global = {
-  \repeat unfold 6 {s1 \break \bar ""}
+  \repeat unfold 12 {s1 \break \bar ""}
 }
 % the above global variable contains a repeating blank staff; you can change the amount of bars/lines to your heart's content
 
