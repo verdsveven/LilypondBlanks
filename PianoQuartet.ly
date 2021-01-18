@@ -1,4 +1,4 @@
-#(set-global-staff-size 26)
+#(set-global-staff-size 28)
 #(set-default-paper-size "a4")
 % above lines define the default size of the staff and the size of the paper. Both sizes can be changed to one's liking. "a4" can be changed to "letter" for example
 
