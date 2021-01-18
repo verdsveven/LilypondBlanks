@@ -13,6 +13,7 @@ Good-looking printable blank staff/music paper is hard to come by. In this repos
 * PDFs and sourcefiles are attached
 	* PDFs are in A4 tho this is changeable. Instructions in the source files.
 		* I might make a letter paper branch for those of you who use that... possibly in the near future
+* For the named blanks: first page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
 
 ## The various blanks:
 
@@ -25,14 +26,12 @@ Good-looking printable blank staff/music paper is hard to come by. In this repos
 
 ### String quartet
 * 4 bars per page blank staff paper prepared for string quartet (all clefs included). No time signature however.
-* First page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
 
 ### Piano quartet
 * 2 bars per page blank staff paper prepared for piano quartet (all clefs included). No time signature however.
-* First page has naming, second page doesn't. Print the first one once and the second one as many times as you want.
 
 ### Violin duet
-* 7 bars per page blank staff paper prepared for violin duet (treble clef for both). No time signatures.
+* 6 bars per page blank staff paper prepared for violin duet (treble clef for both). No time signatures.
 
 ### Others potentially coming in the future:
 * Piano quintet
